@@ -38,10 +38,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/fsx"
+    "url": "https://github.com/zix-art/fsx"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/fsx/issues"
+    "url": "https://github.com/zix-art/fsx/issues"
   },
-  "homepage": "https://github.com/yourusername/fsx#readme"
+  "homepage": "https://github.com/zix-art/fsx#readme"
 }
