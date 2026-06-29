@@ -1,0 +1,47 @@
+{
+  "name": "fsx",
+  "version": "1.0.0",
+  "description": "A better fs — recursive ops, clear errors, and useful utilities for bots, APIs, and scrapers.",
+  "author": "Zx?",
+  "license": "MIT",
+  "keywords": [
+    "fs",
+    "filesystem",
+    "file",
+    "async",
+    "recursive",
+    "copy",
+    "move",
+    "exists",
+    "bot",
+    "scraper"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "main": "./index.js",
+  "module": "./index.mjs",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./index.mjs",
+      "require": "./index.js",
+      "types": "./index.d.ts"
+    }
+  },
+  "files": [
+    "index.js",
+    "index.mjs",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/fsx"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/fsx/issues"
+  },
+  "homepage": "https://github.com/yourusername/fsx#readme"
+}
